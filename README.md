@@ -1,0 +1,10 @@
+The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance;
+KPIS - Total Loan Applications,Total Funded Amount,Total Amount Received,Average Interest Rate,Average Debt-to-Income Ratio (DTI);
+GOOD LOAN VS BAD LOAN;
+Loan Status Grid View;
+Monthly Trends by Issue Date; 
+Regional Analysis by State;
+Loan Term Analysis ;
+Employee Length Analysis; 
+Loan Purpose Breakdown;
+Home Ownership Analysis;
